@@ -4,7 +4,7 @@
 
 = EXPLAINME: Awesome MCP Servers
 
-== "A curated list of awesome Model Context Protocol (MCP) servers"
+== A curated list of awesome Model Context Protocol (MCP) servers
 
 [quote, README.md]
 ____
