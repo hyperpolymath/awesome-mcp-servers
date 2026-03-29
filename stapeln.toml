@@ -1,0 +1,8 @@
+# SPDX-License-Identifier: PMPL-1.0-or-later
+
+[project]
+name = "awesome-mcp-servers"
+description = "Awesome MCP Servers curated list"
+
+[container]
+base = "cgr.dev/chainguard/wolfi-base:latest"
