@@ -1,0 +1,14 @@
+// Must.a2ml for awesome-mcp-servers
+// SPDX-License-Identifier: PMPL-1.0-or-later
+// Generated: 2026-04-08T19:51:32+01:00
+
+Must {
+    name: "awesome-mcp-servers"
+    version: "1.0.0"
+    description: "Must contractile for awesome-mcp-servers"
+    
+    // Basic Must configuration
+    enabled: true
+    
+    // Repository-specific settings will be added here
+}
